@@ -1,0 +1,11 @@
+# ignore compiled stuff
+*
+
+# don't ignore source files
+!*.hs
+!*.py
+!*/
+# don't ignore git stuff
+!*.md
+!LICENSE
+!.gitignore
