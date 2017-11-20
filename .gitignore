@@ -4,6 +4,7 @@
 # don't ignore source files
 !*.hs
 !*.py
+!*.c
 !*/
 # don't ignore git stuff
 !*.md
